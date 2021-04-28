@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ka Ming.
-- 👀 I’m interested in coding for good.
+- 👋 Hi, I’m Ka Ming!
+- 👀 I’m interested in coding for social good. Failing that, I'd like to code, so that I can do more social good.
 - 🌱 I’m currently learning the React framework.
 - 💞️ I’m looking to collaborate on an intra-protest communications app.
 - 📫 How to reach me: wg.kaming@gmail.com
