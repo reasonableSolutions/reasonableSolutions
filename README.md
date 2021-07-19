@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ka Ming!
-- 👀 I’m interested in coding for social good. Failing that, I'd like to code, so that I can do more social good.
-- 🌱 I’m currently learning the React framework.
-- 💞️ I’m looking to collaborate on an intra-protest communications app.
+- 👀 I’m interested in coding for social good. Failing that, I'd like to have a job coding so that I can do more social good.
+- 🌱 I’m currently learning full-stack engineering through the University of Helsinki's Fullstack Open course.
 - 📫 How to reach me: wg.kaming@gmail.com
 
 <!---
